@@ -1,6 +1,6 @@
 # UCI_bank_marketing
 
-The data is gotten from https://archive.ics.uci.edu/ml/datasets/bank+marketing.
+The data is got from https://archive.ics.uci.edu/ml/datasets/bank+marketing.
 
 It is a practice for me to learn and try gradient boost method by using XGBoost package. 
 
